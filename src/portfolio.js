@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Rameez Raja Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate data enthusiast with a decade of experience in data, analysis, and visualization. I describe myself as a problem-solver; my job is to make other people's lives easier.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Rameez Raja Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
